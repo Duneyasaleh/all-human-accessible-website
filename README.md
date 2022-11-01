@@ -11,8 +11,7 @@ Stel dat jou sitegebruiker blind of kleurenblind is, of de site alleen met een t
 
 
 
-<img src="https://user-images.githubusercontent.com/54691201/199359819-102a6023-7f8c-43f4-bd98-f376fc1e64df.png" width="200">
-<img src="https://user-images.githubusercontent.com/54691201/199359835-734927ca-a78a-402a-8603-cd1c91393f32.png" width="200">
+<img src="https://user-images.githubusercontent.com/54691201/199359819-102a6023-7f8c-43f4-bd98-f376fc1e64df.png" width="200"><img src="https://user-images.githubusercontent.com/54691201/199359835-734927ca-a78a-402a-8603-cd1c91393f32.png" width="200">
 
 
 
